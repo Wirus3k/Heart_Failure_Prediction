@@ -1,4 +1,4 @@
-# Heart_Failure_Prediction - Machine Learning Project :book::mending_heart::runner:
+# Heart_Failure_Prediction - Project :book::mending_heart::runner:
 
 ### In pursuit of a career, many people do not realize how important a healthy lifestyle is, the lack of which carries many unpleasant consequences that may end tragically for them. Lack of physical activity (sedentary lifestyle), party lifestyle (stimulants), unhealthy diet associated with hardened fats and white sugar or neglecting periodic examinations are just some of the reasons that can result in many diseases, one of which is diseases related to the most important organ in the human body, responsible for pumping blood to other organs, i.e. the heart.
 
